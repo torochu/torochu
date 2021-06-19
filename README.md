@@ -1,4 +1,4 @@
-Hello World 👋 !
+Hello World 👋 !  
 I'm William Kang, a front-end developer who loves Ruby on Rails💖. I'm currently learning Tailwind CSS and React.
 
 
